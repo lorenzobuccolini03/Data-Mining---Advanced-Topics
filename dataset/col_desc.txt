@@ -1,6 +1,0 @@
-Coolumn,Description 
-Children's Global Assessment Scale,0–100 numeric scale used by mental health clinicians to rate an individual's social, occupational, and psychological functioning
-FitnessGram Vitals and Treadmill,a comprehensive, health-related fitness evaluation for youth, designed to measure aerobic capacity, body composition, and muscular fitness using criterion-referenced standards
-Bio-electric Impedance Analysis,a non-invasive, quick, and widely used technique to estimate body composition, including body fat, fat-free mass, and total body water, by passing a low-level, harmless electrical current through the body
-Sleep Disturbance Scale,an instrument to evaluate sleep disturbances in childhood and adolescence
-T-scores, standardized (mean 50, standard deviation 10) scores to measure self-reported sleep quality, where higher scores (e.g., 60+) indicate worse sleep disturbance
