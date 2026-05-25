@@ -2,13 +2,14 @@ classifier,balanced_accuracy_4c,balanced_accuracy_3c
 Logistic Regression,0.3558,0.3818
 SVM,0.2558,0.3590
 SVM (non-linear),0.3049,0.4017
-Perceptron,0.2708,0.3498
-MLP,0.3059, 0.4112
-Random Forest,0.3299,0.4572
-ExtraTrees,0.3720,0.4681
-Bagging,0.3395,0.4402
-AdaBoost,0.3628,0.4557
-Gradient Boosting,0.2933,0.3957
+Perceptron,0.2887,0.4332
+MLP,0.2774, 0.3329
+Random Forest,0.3299,0.4506
+ExtraTrees,0.3720,0.4652
+Bagging (DT),0.3395,0.4402
+Bagging (Perceptron),0.2665,0.3329
+AdaBoost,0.3628,0.4688
+Gradient Boosting,0.2933,0.3977
 XGBoost,0.2933,0.4193
 LightGBM,0.3035,0.4077
 CatBoost,0.2958,0.4103
