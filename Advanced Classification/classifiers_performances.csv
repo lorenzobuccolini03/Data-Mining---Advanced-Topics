@@ -10,7 +10,7 @@ Bagging (DT),0.3395,0.4402
 Bagging (Perceptron),0.2665,0.3329
 AdaBoost,0.3628,0.4688
 Gradient Boosting,0.2933,0.3977
-XGBoost,0.2933,0.4193
+XGBoost,0.2933,0.4084
 LightGBM,0.3035,0.4077
-CatBoost,0.2958,0.4103
-EBM,0.2923,0.3890
+CatBoost,0.2958,0.3941
+EBM,0.2923,0.3941
