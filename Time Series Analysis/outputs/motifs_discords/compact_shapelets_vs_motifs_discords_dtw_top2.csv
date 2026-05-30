@@ -1,0 +1,3 @@
+candidate_id,length,shapelet_abs_cohen_d,closest_motif_dtw_distance,closest_discord_dtw_distance,closer_by_mean_dtw,closer_by_min_dtw
+142,20,0.34608004093743594,0.3956347462061787,0.5546869741439054,discords,motifs
+49,10,0.3292649152933174,0.2048437613037048,0.613433890071259,discords,motifs
